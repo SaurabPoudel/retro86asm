@@ -19,7 +19,7 @@ no_carry:
 mov sum,ax
 mov ah,4ch
 int 21h
-main endp
+main end
 end main
 
 
